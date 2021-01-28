@@ -1,0 +1,6 @@
+{
+    "sketch": "tp_8.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM4",
+    "programmer": "AVRISP mkII"
+}
